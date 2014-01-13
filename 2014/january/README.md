@@ -24,3 +24,5 @@
 * LMDB is an example of a database that doesn't use a write-ahead log. It basically uses
   an append-only B+ tree with only two versions.
 * The majority of my classes for this semester are taught by graduate students.
+* I can now search the web on Tumblr using Yahoo's search engine which is powered by Bing.
+  Why is this useful? I have no idea.
