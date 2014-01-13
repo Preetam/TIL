@@ -19,3 +19,8 @@
   We can figure this out by observing everything from a single point -- Earth!
 * I realized that I'd rather figure out what I'm doing wrong on my own rather than
   have someone tell me that I'm doing it wrong. This is for nontrivial things.
+
+### 12 - Sunday
+* LMDB is an example of a database that doesn't use a write-ahead log. It basically uses
+  an append-only B+ tree with only two versions.
+* The majority of my classes for this semester are taught by graduate students.
