@@ -26,3 +26,6 @@
 * The majority of my classes for this semester are taught by graduate students.
 * I can now search the web on Tumblr using Yahoo's search engine which is powered by Bing.
   Why is this useful? I have no idea.
+
+### 13 - Monday
+* I learn a lot from the folks on Twitter.
