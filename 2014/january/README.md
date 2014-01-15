@@ -29,3 +29,7 @@
 
 ### 13 - Monday
 * I learn a lot from the folks on Twitter.
+
+### 14 - Tuesday
+* Charlottesville is (getting) pretty hot for data science
+* The Oscars and the Academy Awards are the same thing
